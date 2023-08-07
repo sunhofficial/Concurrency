@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B821C5D6-2100-425A-BCC4-8E98218B0627"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - 9fc83dbbf157b53d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - 3da7c840f766ed28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - d7055a13bf88b13f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - eb49bf3775764f00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - 48a00b635a5ac903"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - 9fc83dbbf157b53d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "A9E570FB-97F4-4BC6-B54B-210D565D3682 - eb49bf3775764f00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA362AFE-5E34-4A58-9F55-5C9675D33389"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "EA362AFE-5E34-4A58-9F55-5C9675D33389 - d7055a13bf88b11c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "EA362AFE-5E34-4A58-9F55-5C9675D33389 - 48a00b635a5ac920"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "906682C1-DF07-4E74-B978-2E94B7FB3F9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0FBA9CB-19EA-4960-BAC3-2C27EEE6E193"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB09C104-0116-4B0A-BABF-C031FC52CB98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "DB09C104-0116-4B0A-BABF-C031FC52CB98 - 679e94c2233eb69c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "DB09C104-0116-4B0A-BABF-C031FC52CB98 - ad89d35b876dae81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "DB09C104-0116-4B0A-BABF-C031FC52CB98 - 9fc83dbbf157ba9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "DB09C104-0116-4B0A-BABF-C031FC52CB98 - eb49bf37757640a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A41AD22-1E2B-44AE-B6E8-07D9AEE2518A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8A41AD22-1E2B-44AE-B6E8-07D9AEE2518A - 9fc83dbbf157b57b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "8A41AD22-1E2B-44AE-B6E8-07D9AEE2518A - eb49bf3775764f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "8A41AD22-1E2B-44AE-B6E8-07D9AEE2518A - 9fc83dbbf157b57b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8A41AD22-1E2B-44AE-B6E8-07D9AEE2518A - eb49bf3775764f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for ConcurrencyStudy.AsyncAwaitBootCampViewModel.addAuthor1() async -&gt; ()"
+                  moduleName = "ConcurrencyStudy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sunho/Desktop/%F0%9F%92%BB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE/Concurrency/ConcurrencyStudy/ConcurrencyStudy/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F65366CA-DB61-49D0-A43A-D9B6391F26BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "addAuthor1()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "719FA5B7-5ACC-40A5-A6D5-6EB0431C212B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcurrencyStudy/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
