@@ -12,6 +12,7 @@
 		C731DF302A8150F5003A976A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C731DF2F2A8150F5003A976A /* Assets.xcassets */; };
 		C731DF332A8150F5003A976A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C731DF322A8150F5003A976A /* Preview Assets.xcassets */; };
 		C731DF3A2A815F36003A976A /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = C731DF392A815F36003A976A /* AsyncAwait.swift */; };
+		C7C9932D2A87F746000B5F32 /* TaskGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7C9932C2A87F746000B5F32 /* TaskGroup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C731DF2F2A8150F5003A976A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C731DF322A8150F5003A976A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C731DF392A815F36003A976A /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
+		C7C9932C2A87F746000B5F32 /* TaskGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				C731DF2B2A8150F3003A976A /* ConcurrencyStudyApp.swift */,
 				C731DF2D2A8150F3003A976A /* ContentView.swift */,
 				C731DF392A815F36003A976A /* AsyncAwait.swift */,
+				C7C9932C2A87F746000B5F32 /* TaskGroup.swift */,
 				C731DF2F2A8150F5003A976A /* Assets.xcassets */,
 				C731DF312A8150F5003A976A /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				C731DF2E2A8150F3003A976A /* ContentView.swift in Sources */,
 				C731DF2C2A8150F3003A976A /* ConcurrencyStudyApp.swift in Sources */,
+				C7C9932D2A87F746000B5F32 /* TaskGroup.swift in Sources */,
 				C731DF3A2A815F36003A976A /* AsyncAwait.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

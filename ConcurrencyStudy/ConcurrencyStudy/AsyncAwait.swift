@@ -28,7 +28,7 @@ class AsyncAwaitBootCampViewModel: ObservableObject {
         let author3 = "something1 : \(Thread.current)"
         self.dateArray.append(author3)
     }
-
+    
 }
 struct AsyncAwait : View{
     @StateObject private var vm = AsyncAwaitBootCampViewModel()
