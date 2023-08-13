@@ -47,11 +47,16 @@ class TaskGroupManager {
                     try? await self.fetchImage(urlString: urlString)
                 }
             }
-            for try await image in group {
+//            for try await image in group {
+//                if let image = image {
+//                    images.append(image)
+//                }
+//            }
+            while let image = try await group.next() {
                 if let image = image {
-                    images.append(image)
+                   images.append(image)
                 }
-            }
+             }
             return images
         }
     }
