@@ -11,7 +11,7 @@ import SwiftUI
 struct ConcurrencyStudyApp: App {
     var body: some Scene {
         WindowGroup {
-            AsyncAwait()
+            PhotoPickerView()
         }
     }
 }
